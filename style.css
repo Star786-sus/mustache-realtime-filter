@@ -1,0 +1,15 @@
+h3
+{
+    size: 20px;
+}
+
+canvas
+{
+    border: 2px dotted rgb(209, 111, 31)
+}
+
+body
+{
+    background-repeat: no-repeat;
+    background-size: 1200px 600px;
+}
